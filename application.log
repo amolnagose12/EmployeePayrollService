@@ -162,3 +162,5 @@ Identify and stop the process that's listening on port 8081 or configure this ap
 2021-12-27 20:59:38.627 DEBUG 3240 --- [restartedMain] c.b.e.EmployeePayrollAppDay5Application  : Running with Spring Boot v2.6.2, Spring v5.3.14
 2021-12-27 20:59:38.627  INFO 3240 --- [restartedMain] c.b.e.EmployeePayrollAppDay5Application  : No active profile set, falling back to default profiles: default
 2021-12-27 20:59:42.209  WARN 3240 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-27 20:59:42.820  INFO 3240 --- [restartedMain] c.b.e.EmployeePayrollAppDay5Application  : Started EmployeePayrollAppDay5Application in 4.655 seconds (JVM running for 5.432)
+2021-12-27 20:59:42.826  INFO 3240 --- [restartedMain] c.b.e.EmployeePayrollAppDay5Application  : EmployeePayRoll App  started
